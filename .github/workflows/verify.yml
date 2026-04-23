@@ -10,7 +10,7 @@ on:
 
   pull_request:
 
-    branches: [ "main" ] # Quand on veut fusionner vers la production
+    branches: [ "master" ] # Quand on veut fusionner vers la production
 
  
 
